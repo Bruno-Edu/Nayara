@@ -1,0 +1,19 @@
+.menu{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #0000;
+
+}
+.Logo{
+    width: 20%;
+    height: 10%;
+}
+.content{
+    margin: auto;
+    padding: 1rem;
+    width: 80%;
+    height: 70%;
+}
